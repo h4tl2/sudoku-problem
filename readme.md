@@ -10,5 +10,5 @@
   - [x] grid_values
   - [x] eliminate
   - [x] only_choice
-  - [ ] reduce_puzzle
+  - [x] reduce_puzzle
   - [ ] search
